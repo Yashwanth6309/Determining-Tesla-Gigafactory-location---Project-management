@@ -30,8 +30,7 @@ The team conducted **financial analysis, risk assessment, and mitigation plannin
 
 ### 📎 Attachments 🗂️
 - Appendix B – Work Breakdown Structure (WBS)
-## Work Breakdown Structure used
-- <a href="[https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx](https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Work%20Breakdown%20Structure.jpg)">Dataset</a>
+https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Work%20Breakdown%20Structure.jpg
 - Appendix C – Network Diagram
 - Appendix J – Baseline Schedule
 - Appendix G – Responsibility Matrix
