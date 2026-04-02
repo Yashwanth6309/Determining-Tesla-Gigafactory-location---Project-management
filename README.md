@@ -5,16 +5,17 @@ Data-driven selection of Tesla’s next Gigafactory location, monitored with KPI
 
 The project used structured KPIs to monitor schedule and cost performance. The primary KPI was the **Baseline Execution Index (BEI)**, which measured planned vs completed tasks to track adherence to the baseline schedule. Performance thresholds (Green ≥99%, Yellow 95–98%, Red ≤94%) were used to identify delays and trigger corrective actions.
 
-Financial performance was tracked through comparing actual spend with the planned budget (±$10,000 tolerance). Supporting KPIs included **ROI, Budget Utilization, Supply Chain Efficiency Index (SCEI), and Community Engagement Score (CES)** from the project charter.
+Financial performance was tracked through comparing actual spend with the planned budget (±including tolerance). Supporting KPIs included **ROI, Budget Utilization, and Time-Phased Budget**
 
 ### 📎 Attachments 🗂️
-- Appendix F – Project Charter (SCEI, CES, ROI)
-- Appendix J – Baseline Schedule (BEI reference)
-- Appendix K – Cost Estimate
+- Appendix F – Project Charter
+- Appendix J – Baseline Schedule 
 - Appendix M – Time-Phased Budget
 - Appendix N – Control Systems (KPI monitoring logic)
 
----
+## Dataset used
+- <a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx"
+
 
 ## ⚙️ 2️⃣ Process 🔄
 
