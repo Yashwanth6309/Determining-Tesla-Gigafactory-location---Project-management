@@ -1,8 +1,8 @@
-# Determining-Tesla-Gigafactory-location---Project-management
+# Determining Tesla Gigafactory location---Project-management
 Data-driven selection of Tesla’s next Gigafactory location, monitored with KPIs like BEI, budget, and ROI.
 
 ## Dataset used
-- <a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx">Dataset</a>
+ <a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx">Dataset</a>
 
 ## 📌 1️⃣ Key Performance Indicators (KPI) 📊
 
@@ -16,8 +16,7 @@ Financial performance was tracked through comparing actual spend with the planne
 - Appendix M – Time-Phased Budget
 - Appendix N – Control Systems (KPI monitoring logic)
 
-## Dataset used
-- <a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx">Dataset</a>
+<a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx">Dataset</a>
 
 
 ## ⚙️ 2️⃣ Process 🔄
@@ -30,10 +29,14 @@ The team conducted **financial analysis, risk assessment, and mitigation plannin
 
 ### 📎 Attachments 🗂️
 - Appendix B – Work Breakdown Structure (WBS)
-https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Work%20Breakdown%20Structure.jpg
+  ![Work Breakdown Structure](https://github.com/user-attachments/assets/9d680899-3ab5-4d27-a344-36e547f6bc0c)
 - Appendix C – Network Diagram
+  ![Network Diagram](https://github.com/user-attachments/assets/d12fa4e7-fa72-437a-b1b9-2ce43818d6e3)
 - Appendix J – Baseline Schedule
+
+   ![Baseline Schedule](https://github.com/user-attachments/assets/ffb0e2f8-6c18-4530-8f01-c3c7dcc09be1)
 - Appendix G – Responsibility Matrix
+  ![Responsibility Matrix](https://github.com/user-attachments/assets/0d688788-9dc0-44cd-a221-c528d6b2ba98)
 
 ---
 
@@ -47,9 +50,20 @@ Site selection insights were derived from evaluating supply chain efficiency, lo
 
 ### 📎 Attachments 🗂️
 - Appendix K – Cost Estimate
+
+![Cost Estimate](https://github.com/user-attachments/assets/27fffeb9-fd05-4c73-91cb-26d1902770b5)
 - Appendix H – Risk Matrix
+
+<img width="765" height="519" alt="Risk Matrix" src="https://github.com/user-attachments/assets/b9a1822b-ac0a-4150-a617-02d69fb6547f" />
+
 - Appendix L – Resource Loading Table
+  <a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx">Dataset</a>
+
 - Appendix D – Stakeholder Register
+  <img width="761" height="434" alt="1 Stakeholder Register" src="https://github.com/user-attachments/assets/1d6c0930-28b0-41d0-a36f-98810bd14e77" />
+  <img width="753" height="489" alt="2 Stakeholder Register" src="https://github.com/user-attachments/assets/0d794a12-dd0e-4d60-9ee7-ffeeb324f2a4" />
+
+
 
 ---
 
@@ -64,10 +78,8 @@ Site selection insights were derived from evaluating supply chain efficiency, lo
 - Ensured **regulatory compliance and stakeholder alignment**
 
 ### 📎 Attachments 🗂️
-- Appendix J – Project Schedule
-- Appendix G – Responsibility Matrix
-- Appendix H – Risk Matrix
 - Appendix A – Organizational Breakdown
+  ![Organizational Breakdown](https://github.com/user-attachments/assets/bde15c14-ff99-458f-a7e8-e3e008116fc3)
 
 ---
 
@@ -80,6 +92,6 @@ The use of KPIs such as BEI and financial tracking ensured alignment with schedu
 This project provides a **scalable framework for future large-scale infrastructure and site selection initiatives**.
 
 ### 📎 Attachments 🗂️
-- Appendix F – Project Charter
 - Appendix O – Project Closure Criteria
-- Appendix N – Control Systems
+  
+  <a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx">Dataset</a>
