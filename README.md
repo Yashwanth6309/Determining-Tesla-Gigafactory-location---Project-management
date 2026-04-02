@@ -1,6 +1,9 @@
 # Determining-Tesla-Gigafactory-location---Project-management
 Data-driven selection of Tesla’s next Gigafactory location, monitored with KPIs like BEI, budget, and ROI.
 
+## Dataset used
+- <a href="https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx">Dataset</a>
+
 ## 📌 1️⃣ Key Performance Indicators (KPI) 📊
 
 The project used structured KPIs to monitor schedule and cost performance. The primary KPI was the **Baseline Execution Index (BEI)**, which measured planned vs completed tasks to track adherence to the baseline schedule. Performance thresholds (Green ≥99%, Yellow 95–98%, Red ≤94%) were used to identify delays and trigger corrective actions.
@@ -27,6 +30,8 @@ The team conducted **financial analysis, risk assessment, and mitigation plannin
 
 ### 📎 Attachments 🗂️
 - Appendix B – Work Breakdown Structure (WBS)
+## Work Breakdown Structure used
+- <a href="[https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Determining%20Tesla%20Gigafactory%20Location%20Virtual%20Project.xlsx](https://github.com/Yashwanth6309/Determining-Tesla-Gigafactory-location---Project-management/blob/main/Work%20Breakdown%20Structure.jpg)">Dataset</a>
 - Appendix C – Network Diagram
 - Appendix J – Baseline Schedule
 - Appendix G – Responsibility Matrix
